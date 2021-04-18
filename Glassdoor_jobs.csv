@@ -1,70 +1,74 @@
-,Job Title,Salary Estimate,Job Description,Rating,Company Name,Location
-0,DATA SCIENTIST-HEALTHCARE,-1,"The Data Scientist has a deep understanding of big data and will help the Agile teams in building and enabling big data analytics solutions. Works with the Agile squad and the business users to continuously collect insight from maintenance data and enable digital use cases
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location
+Data Entry,-1,"We are looking for Data Entry Clerks to join our crew of photo and video collectors worldwide!
+At TransPerfect, we are looking for speakers of various languages to join our worldwide network of workers on a variety of innovative and interesting remote projects and jobs to improve Artificial Intelligence (i.e. as speech or text recognition, input methods, keyboard/swipe technology or other areas of human-machine interaction).
 
-Education
-Type of degree: Master's Degree or PhD
-Area of study or major: Information Technology, Computer Science, or a relative quantitative discipline
-Experience",3.7,Premier Health,"Dayton, OH"
-1,Staff Data Scientist,-1,"WHO WE ARE:
-Voted one of the Top 100 Fastest Growing Companies in the Bay Area for 2020, Freedom Financial Network is a family of companies that takes a people-first approach to financial services, using technology to empower consumers to overcome debt and create a brighter financial future. The company was founded in 2002 by Brad Stroh and Andrew Housser on the belief that by staying committed to helping people, you can ensure better financial outcomes for both the customer and the business. This Heart/$ philosophy still guides the vision of our growing company, which has helped millions of people find solutions for their financial needs.
-What began with 2 people in a spare bedroom has now rapidly expanded to a vibrant business that employs over 2000 employees (known internally as The Freedom Family) in two locations: San Mateo, CA and Tempe, AZ. When you visit either of our offices, you’ll understand why our employees have voted us the Best Place to Work for the last several years. It’s a place where the Heart/$ philosophy continues to thrive, where we believe that success is only achieved by doing what’s right for our customers, our employees, and our communities.
-Some of the key responsibilities for the Analytic Scientist will include:",3.5,Freedom Financial Network,"Tempe, AZ"
-2,R&D Scientist,$62K - $73K (Glassdoor est.),"LGC, Biosearch Technologies is seeking a detail-oriented and analytical team player to fulfill the role of Scientist in our Research and Development group in Middleton, WI. The individual will provide technical assistance to the R&D group in the areas of nucleic acid amplification and next generation sequencing. Experience in design and development of quantitative PCR and RT-PCR assays is a plus. The hired individual must have the ability to multi-task while maintaining precise documentation of experiments performed.
+TransPerfect has over 5,000 full-time employees, a network of over 5,000 certified linguists and subject-area specialists, and over 90 offices in cities around the globe, making it the world’s largest privately held language services provider. TransPerfect is certified to ISO 9001:2015 and ISO 17100:2015, ensuring the highest level of quality and service for all projects. Our global group of companies completes over 300,000 projects per year and works with many of the world's most recognizable enterprises.",3.0,TransPerfect Translations Inc.,Remote
+Data Scientists,-1,We are always looking for Data Scientists who want to work on challenging and interesting projects in a variety of industries.,5.0,Ars Quanta,"Seattle, WA"
+-1,-1,-1,-1,-1,-1
+Data Scientist,Employer Provided Salary:$67 - $82 Per Hour,"HI Professional
+Hope you are doing good
+We have urgent openings on Data Scientist
+If you are interested in this below position please send me your updated Resume to vinay (at) idssoft.com and you can reach me out in 2488711195
+Client : Ford
+Location : (REMOTE)
+It’s a W2 Position",4.4,ids,Remote
+Data Science Intern,Employer Provided Salary:$17 Per Hour,"Remote Summer Intern
+Online education is no longer a novel or niche idea. It is the fastest-growing segment in higher education, accounting for 20% of all enrollees and 35% of graduate-level certificates and degrees. It's also getting increasingly competitive, as more and better programs are launched each semester. Universities need to go online quickly, economically, and elegantly, creating programs that students can't wait to tell their friends about and that their professors want to teach.
+Noodle helps universities bring programs online with flexibility, transparency, alignment, efficiency, and joy. That's why more top universities chose us last year than all other online program managers combined. We are a passionate team of technologists, educators, and experts. Online learning has the potential to transform higher education; if you’re interested in being part of that journey, keep reading!",4.7,Noodle,Remote
+DATA SCIENTISTS,-1,"We are looking for experienced Data Scientists to join our team and work on our research and data modeling projects.
+Your role
+Design and model predictive analytics models
+Build data visualizations to communicate our models outputs to external clients
+Execute batch jobs on our custom-built computing cluster
+Desired skills and experience
+Knowledge of Python modeling libraries, Flask, HTML/PHP, GITLAB
+Knowledge of fundamental statistics",5.0,INBOX AMERICA CONSULTING SERVICES,"Alexandria, VA"
+Sr. Data Scientist,Employer Provided Salary:$58 - $63 Per Hour,"Knowledge and experience in building and analyzing linear regression, logistic regression, generalized linear models, and time series models
+Experience in converting business problems into statistical problems, building models to solve the statistical problem, then use the models to develop business recommendations to solve the business problem
+Knowledge of optimization techniques and application to business problems
+Experience in pulling data from multiple sources, cleaning the data, and preparing the data for analysis
+Experience in using a structure workflow in their problem solving
+Experience in using Git to manage model versions
+Experience with R and Python",4.1,Pricesenz,Remote
+Data Scientist,-1,"Job Description
 
-Key responsibilities and accountabilities:
-Amplification (qPCR, RT-qPCR, isothermal amplification, digital PCR)
-Standard molecular biology techniques (DNA extraction/purification, PCR, cloning)",3.5,LGC Limited,"Middleton, WI"
-3,Business Intelligence Data Analyst,$64K - $77K (Glassdoor est.),"Business Intelligence Data Analyst
-Location: Remote Position
-BankSouth seeks an experienced Business Intelligence Data Analyst. This position works with the Innovation Team lead by the SVP, Chief Innovation Officer. This is a full-time opportunity to work remotely with a small team of seasoned marketing professionals. The Marketing Department uses data analytics and creative content strategy and execution programs to offer a digital-only banking experience for current and future customers. The successful candidate will have thorough knowledge of collecting, analyzing and interpreting data and results to identify actionable insights and recommendations for use in new deposit relationship creation. This position identifies, analyzes, and interprets trends or patterns in complex data to provide answers to business questions as well as offer support in the collaborative creation of successful multi-lateral marketing campaigns.",3.9,BANKSOUTH,"Greensboro, GA"
-4,Data Scientist,$120K - $121K (Glassdoor est.),"Who Are We?
-QinetiQ Inc. is a leading innovator with over 25 years of experience rapidly developing advanced C5ISR sensor solutions and is a renowned world leader in robotics and autonomy.
-The combined QinetiQ U.S. business unit brings capabilities across the full lifecycle of technology development from applied research and development to rapid prototyping, testing, fielding, and sustainment. Our expertise with unmanned platforms, broad sensing modalities, and cross-domain interoperability ensures that we deliver integrated solutions for Warfighter dominance in all phases of combat.
-We are a world-class team of professionals who deliver next generation technology and products in robotic and autonomous platforms and systems, ground systems, soldier systems, maritime systems, airborne sensors and payloads, processing and exploitation capabilities, and integrated C2 solutions. Much of our work contributes to innovative research in ﬁelds such as sensor science, signal processing, data fusion, artiﬁcial intelligence (AI), machine learning (ML), and augmented reality (AR).",2.5,QinetiQ Inc.,"Lorton, VA"
-5,-1,$35K - $62K (Glassdoor est.),-1,-1,-1,-1
-6,-1,$139K - $193K (Glassdoor est.),-1,-1,-1,-1
-7,Workforce Data Analyst,$38K - $65K (Glassdoor est.),"Overview:
-Heritage Christian Services is seeking candidates for a Workforce Data Analyst position. In this role you will be responsible for the day-to-day administration of iCIMS, the applicant tracking system, and HireVue, the video interview technology and analysis of workforce data; which contributes to positioning Heritage Christian Services as a premier employer. In addition, you will connect with candidates to ensure their application experience is positive by providing technical assistance and outstanding customer service.
-Responsibilities:
-Serve as system administrator for applicant tracking system (iCIMS) and HireVue.
-Track applicant status on iCIMS and HireVue daily.
-Review iCIMS completed applications and HireVue on demand interviews; sending scheduling link to qualified candidates.
-Qualifications:",3.5,Heritage Christian Services,"Rochester, NY"
-8,Research Scientist I - Essentia,-1,"New product development of broths, stocks, flavors, animal fats and functional collagen products; lead and conduct pilot plant and production plant trials; support operations with technical expertise to improve quality / reduce cost of existing products; collaborate and provide technical support to internal cross functional groups and external customers; propose and identify new technological opportunities.
-JOB QUALIFICATIONS:
-Education and Experience:
-Bachelor of Science degree plus a minimum of 4 years of experience
-Master of Science plus 2 years of experience",2.8,The Lauridsen Group,"Ankeny, IA"
-9,Associate Scientist,$35K - $72K (Glassdoor est.),"Sanvita Medical, an exciting new medical device company in diabetes healthcare operating within one of Nova Biomedical’s facilities, is hiring an Associate Scientist in Billerica, MA. This is an opportunity for a recent STEM grad to work within a multi-disciplinary team conducting research and development of chemical/ biological sensors. Starting out, significant part of responsibilities of this role will include performing data entry.
-Responsibilities
-Perform data entry of clinical research records and other scientific data with high level of accuracy.
-Conduct research in assigned areas under general supervision using established methodologies.
-Develop laboratory skills and familiarity with equipment for operation, maintenance, and raw data gathering.",3.6,Nova Biomedical,"Billerica, MA"
-10,Staff Data Scientist,$114K - $144K (Glassdoor est.),"Alteryx is searching for a Staff Data Scientist in our Boston office.
-We’re looking for problem solvers, innovators, and dreamers who are searching for anything but business as usual. Like us, you’re a high performer who’s an expert at your craft, constantly challenging the status quo. You value inclusivity and want to join a culture that empowers you to show up as your authentic self. You know that success hinges on commitment, that our differences make us stronger, and that the finish line is always sweeter when the whole team crosses together.
-Alteryx Innovation Labs
-The Innovation Labs office, Alteryx's first office presence in Boston, was started earlier this year by the acquisition of MIT-spinout Feature Labs . This rapidly growing team combines the excitement of being part of a fast-paced, innovative startup with the resources, market penetration, and wisdom of a data analytics market leader. Our goal is to turbo-charge machine learning and data science efforts on the Alteryx platform, and to enable anyone to solve dynamic problems. We are working on high-impact, high-visibility projects, and we’re looking for collaborative and knowledge-hungry teammates who want to join us as we work to democratize machine learning.",3.5,"Alteryx, Inc.","Boston, MA"
-11,Data Scientist,-1,"Job Posting End Date: April 20
-Unum is a company of people serving people. As one of the world's leading employee benefits providers and a Fortune 500 company, Unum's financial protection benefits help protect more than 36 million working people and their families from the financial impact of illness or injury. Unum's three distinct, but similarly focused US businesses – Unum US, Colonial Life, and Starmount Life – are each a market leader in making disability, life, accident, critical illness, dental, and vision insurance accessible in the workplace.
-Headquartered in Chattanooga, Tennessee, Unum also has significant US operations in Portland, Maine, - and over 35 field offices nationwide. Colonial Life is headquartered in Columbia, South Carolina with over 40 field offices nationwide. Starmount Life is based in Baton Rouge, Louisiana, and is the dental and vision center of excellence for Unum in the US.
-General Summary:
-General Summary
-This position for a developing data scientist who is excited to transform data into actionable insights and impact the business through his/her work. The role requires increasing technical expertise in the fields of computer programming, applied statistics and data manipulation; and relies on developing business knowledge. The individual will participate in project work primarily within the functional area, with direction and review by manager. The individual is expected to continuously increase business knowledge and take initiative in identifying and executing analytical approaches to support assigned projects.
+Initiates the research, development and implementation of Resolution Enhancement Techniques (RET) for nanoscale process technologies. Investigates potential inventions typically 2 to 4 years prior to being applied to a product. Scope includes models and software to perform layout correction for high resolution reproduction on wafers. Applies software engineering methods, theories and research in the investigation and solution of technical RET problems. Defines and selects new approaches and implementation of RET software engineering applications, design specifications and parameters. Maintains substantial knowledge of state of the art principles and theories in lithography, optics, resists, modeling, and software engineering. Contributes to scientific literature, conferences, and the development of intellectual property. Coordinates interdepartmental activities and research efforts. Must be able to interact with both VLSI design and silicon process technology development, and mask making communities to ensure solutions are optimal. Additionally, can use use predictive modeling, statistics, machine learning, data mining, and other data analysis techniques to collect, explore, visualize, and to develop software algorithms and applications to compensate for empirical effects in photolithography imaging and etch pattern transferal process.",4.1,Intel,"Hillsboro, OR"
+-1,Employer Provided Salary:$48 - $77 Per Hour,-1,-1,-1,-1
+Data Scientist,Employer Provided Salary:$250K - $450K,"Our Mission
+We’re here to create a safer, happier and more mindful future for all with the help of data science, engineering, design, and mobile technology. We're starting by reinventing insurance, by rethinking the technologies that enable it, but our true goal is to build a platform that rewards people for driving well — creating safer roads with fewer accidents in the process.
 
-Position will interface with actuaries on pricing, reserving, and risk.
+Backed by impressive funding, we're poised to re-engineer a trillion-dollar category. We’re using rich customer insights, advanced technology and data science to build our cloud-native InsurTech solution. We're out to change behavior and promote mindful living.
 
-Unum",3.8,Unum,"Portland, ME"
-12,Data Scientist,-1,"Job Posting End Date: April 20
-Unum is a company of people serving people. As one of the world's leading employee benefits providers and a Fortune 500 company, Unum's financial protection benefits help protect more than 36 million working people and their families from the financial impact of illness or injury. Unum's three distinct, but similarly focused US businesses – Unum US, Colonial Life, and Starmount Life – are each a market leader in making disability, life, accident, critical illness, dental, and vision insurance accessible in the workplace.
-Headquartered in Chattanooga, Tennessee, Unum also has significant US operations in Portland, Maine, - and over 35 field offices nationwide. Colonial Life is headquartered in Columbia, South Carolina with over 40 field offices nationwide. Starmount Life is based in Baton Rouge, Louisiana, and is the dental and vision center of excellence for Unum in the US.
-General Summary:
-General Summary
-This position for a developing data scientist who is excited to transform data into actionable insights and impact the business through his/her work. The role requires increasing technical expertise in the fields of computer programming, applied statistics and data manipulation; and relies on developing business knowledge. The individual will participate in project work primarily within the functional area, with direction and review by manager. The individual is expected to continuously increase business knowledge and take initiative in identifying and executing analytical approaches to support assigned projects.
+Job Requirements
+You must have all the skills and experiences associated with one of the options below. These options change over time and reflect the current needs of the team.",4.7,Blue Owl,"San Francisco, CA"
+Data Scientists,-1,"No Relocation Assistance Offered
+# 101782 - Piscataway, New Jersey, United States
+Do you want to be part of a team that is building a future to smile about? What about having the opportunity to connect with others across the world, full of stimulating discussions, and making impactful contributions?
 
-Position will interface with actuaries on pricing, reserving, and risk.
+If this is how you see your career, Colgate is the place to be!
 
-Unum",3.8,Unum,"Portland, ME"
-13,Senior R&D Scientist,$98K - $121K (Glassdoor est.),"LGC, Biosearch Technologies is looking for a highly analytical and collaborative Senior Scientist to the R&D team at our our Middleton, WI, site. The Senior Scientist will be responsible for developing novel NGS tools and methodologies. The Senior Scientist will work collaboratively with internal and external partners, design and execute experimental plans, communicate results to colleagues and customers, manage and mentor junior scientists and contribute to LGC’s mission of Science for a Safer World.
-
-LGC, Biosearch Technologies is a leader in providing reagents and technologies in the area of Next Generation Sequencing (NGS) for customers in agbio, biotech, pharma and academia. The company develops and markets various enzymes, oligos, beads and instruments for whole genome sequencing, amplicon sequencing, single cell sequencing and genotyping. LGC is a global leader in providing genotyping services with multiple USA sites.",3.5,LGC Limited,"Middleton, WI"
-14,-1,-1,-1,-1,-1,-1
+Our dependable household brands, dedicated employees, and sustainability commitments make us a company passionate about building a future to smile about for our employees, consumers, and surrounding communities. The pride in our brand fuels a workplace that encourages creative thinking, champions experimentation, and promotes authenticity which has contributed to our enduring success.",4.2,Colgate-Palmolive,"Piscataway, NJ"
+Data Scientist,Employer Provided Salary:$38 - $43 Per Hour,"Title : Data Scientist
+Job Type : Long-term Contract (Remote Until Covid)
+Location : Cincinnati, OH.
+Job description:
+Top 3 must haves:
+Able to communicate and derive insights from large datasets.
+Things I will be focusing on here are involving analysts who have worked closely with A/B testing teams or product teams where they are constantly looking at data to help generate A/B testing ideas",3.0,EGRS,"Cincinnati, OH"
+Sr. Data Scientist with Python and Machining Learning,Employer Provided Salary:$112K - $207K,"Need Senior Data Scientist with Python and Machining Learning are Must
+Job Types: Full-time, Contract
+Salary: $111,847.00 - $207,057.00 per year
+Schedule:
+8 hour shift
+Monday to Friday
+Work Remotely:
+Yes",3.7,Simplex Info,Remote
+Data Scientist - HEDIS - REMOTE,Employer Provided Salary:$79K - $120K,"Join our team as a Data Scientist -HEDIS!
+From the comfort of your home, you can be a part of our innovative team at Presbyterian Healthcare Services!
+A day in the life of our Data Scientist -HEDIS consists of being responsible for developing innovative & sophisticated analytics models in concert with other Directors within the Analytics Organization (AO) and in partnership with IT to support analytics/reporting needs of business leaders & fellow colleagues for the real time business decision making.
+Some Day-to-day Responsibilities Include:
+Provide support in creating/coding, designing and testing pilot data-driven predictive/descriptive analytical models",3.7,Presbyterian Healthcare Services,United States
+Early career data scientist / analyst / statistical geneticist,-1,"Are you an early career data scientist / analyst / statistical geneticist looking for work? Are you interested in working on the largest Parkinson’s disease genomics and clinical datasets available? Are you passionate about #OpenScience, democratizing research tools and increasing scientific inclusivity?
+The COVID19 situation is difficult but we are hiring remote junior staff, targeting an immediate start date. Once the global situation calms in 2021, it is likely the researcher will be needed in the Washington DC area on site approximately two days per week.
+Come work with us at NIH on data science projects as part of a diverse team of multidisciplinary scientists that will be helping support the next wave of brain disease initiatives.
+We are looking for candidates early in their careers with basic programming skills that are willing to learn and apply new methods and techniques. This position includes general analysis workflows with standard packages (python3, dash, PLINK, HAIL, etc) with responsibilities ranging from data science and machine learning, to data visualization and dashboard builds, as well as some minor data and project management.",5.0,Data Tecnica,"Glen Echo, MD"
