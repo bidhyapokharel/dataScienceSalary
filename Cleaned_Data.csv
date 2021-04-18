@@ -1,30 +1,30 @@
-,Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Per Hour,Employee Provided,Min Salary,Max Salary,Average Salary,Python,R_studio,Spark,Excel,AWS,SQL
-1,DATA SCIENTIST-HEALTHCARE,$56K - $96K (Glassdoor est.),"The Data Scientist has a deep understanding of big data and will help the Agile teams in building and enabling big data analytics solutions. Works with the Agile squad and the business users to continuously collect insight from maintenance data and enable digital use cases
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Per Hour,Employee Provided,Min Salary,Max Salary,Average Salary,Python,R_studio,Spark,Excel,AWS,SQL
+DATA SCIENTIST-HEALTHCARE,$56K - $96K (Glassdoor est.),"The Data Scientist has a deep understanding of big data and will help the Agile teams in building and enabling big data analytics solutions. Works with the Agile squad and the business users to continuously collect insight from maintenance data and enable digital use cases
 
 Education
 Type of degree: Master's Degree or PhD
 Area of study or major: Information Technology, Computer Science, or a relative quantitative discipline
 Experience",3.7,Premier Health,"Dayton, OH",0,0,56,56,56.0,0,1,0,0,0,0
-2,Principal Data Scientist,$139K - $214K (Glassdoor est.),"Working out of our Chevy Chase, MD/Washington DC office, GEICO's Data Science team uses predictive analytics and innovative machine learning models to create value from data. We solve problems across GEICO, from Marketing to Claims and Underwriting, and are responsible for developing and driving strategic modeling initiatives. We see our projects through the entire data science lifecycle, from problem definition to data exploration, data munging, modeling, analysis, and deployment into production systems. We maintain a close partnership with IT to ensure that our models can be deployed quickly and monitored in a flexible deployment framework.
+Principal Data Scientist,$139K - $214K (Glassdoor est.),"Working out of our Chevy Chase, MD/Washington DC office, GEICO's Data Science team uses predictive analytics and innovative machine learning models to create value from data. We solve problems across GEICO, from Marketing to Claims and Underwriting, and are responsible for developing and driving strategic modeling initiatives. We see our projects through the entire data science lifecycle, from problem definition to data exploration, data munging, modeling, analysis, and deployment into production systems. We maintain a close partnership with IT to ensure that our models can be deployed quickly and monitored in a flexible deployment framework.
 As a Principal Data Scientist, you will work with a talented and diverse team of data scientists with responsibility to:
 Coordinate project teams of data scientists and supporting roles, acting as the primary point of contact in delivering end-to-end innovative, high-quality data solutions with measurable business value",3.5,GEICO,"Chevy Chase, MD",0,0,139,139,139.0,0,1,0,0,0,0
-4,Senior Scientist,$68K - $97K (Glassdoor est.),"Position Summary:
+Senior Scientist,$68K - $97K (Glassdoor est.),"Position Summary:
 The Senior Scientist is a multi-disciplinary molecular biology position that will provide leadership to the organization as part of the Integrated Solutions team, bringing curiosity, problem solving skills, and scientific acumen to LGC. The Integrated Solutions team supports various wings of the organization such as Research and Development, Sales, Marketing, Customer Service, and Manufacturing.
 The scope of this position will include scientific leadership of new product development, research into previously unexplored areas, development of applications for existing products, and continued customer support. This may include developing new testing methodologies, troubleshooting data, converting potential customers to LGC products, and searching literature for emerging technologies in relevant fields. This position will require extensive knowledge from genomics, molecular biology, chemistry, PCR-based genetic analysis, and laboratory automation.",3.5,LGC Limited,"Alexandria, MN",0,0,68,68,68.0,0,1,0,0,0,0
-5,Staff Data Scientist,$114K - $144K (Glassdoor est.),"Alteryx is searching for a Staff Data Scientist in our Boston office.
+Staff Data Scientist,$114K - $144K (Glassdoor est.),"Alteryx is searching for a Staff Data Scientist in our Boston office.
 We’re looking for problem solvers, innovators, and dreamers who are searching for anything but business as usual. Like us, you’re a high performer who’s an expert at your craft, constantly challenging the status quo. You value inclusivity and want to join a culture that empowers you to show up as your authentic self. You know that success hinges on commitment, that our differences make us stronger, and that the finish line is always sweeter when the whole team crosses together.
 Alteryx Innovation Labs
 The Innovation Labs office, Alteryx's first office presence in Boston, was started earlier this year by the acquisition of MIT-spinout Feature Labs . This rapidly growing team combines the excitement of being part of a fast-paced, innovative startup with the resources, market penetration, and wisdom of a data analytics market leader. Our goal is to turbo-charge machine learning and data science efforts on the Alteryx platform, and to enable anyone to solve dynamic problems. We are working on high-impact, high-visibility projects, and we’re looking for collaborative and knowledge-hungry teammates who want to join us as we work to democratize machine learning.",3.5,"Alteryx, Inc.","Boston, MA",0,0,114,114,114.0,0,1,0,0,0,0
-6,Data Scientist,$120K - $121K (Glassdoor est.),"Who Are We?
+Data Scientist,$120K - $121K (Glassdoor est.),"Who Are We?
 QinetiQ Inc. is a leading innovator with over 25 years of experience rapidly developing advanced C5ISR sensor solutions and is a renowned world leader in robotics and autonomy.
 The combined QinetiQ U.S. business unit brings capabilities across the full lifecycle of technology development from applied research and development to rapid prototyping, testing, fielding, and sustainment. Our expertise with unmanned platforms, broad sensing modalities, and cross-domain interoperability ensures that we deliver integrated solutions for Warfighter dominance in all phases of combat.
 We are a world-class team of professionals who deliver next generation technology and products in robotic and autonomous platforms and systems, ground systems, soldier systems, maritime systems, airborne sensors and payloads, processing and exploitation capabilities, and integrated C2 solutions. Much of our work contributes to innovative research in ﬁelds such as sensor science, signal processing, data fusion, artiﬁcial intelligence (AI), machine learning (ML), and augmented reality (AR).",2.5,QinetiQ Inc.,"Lorton, VA",0,0,120,120,120.0,0,1,0,0,0,0
-8,Senior Scientist,$75K - $146K (Glassdoor est.),"Classification:
+Senior Scientist,$75K - $146K (Glassdoor est.),"Classification:
 Salary
 Job Description:
 Are you looking for a new challenge? Passionate about innovation? Want to work for a company that values integrity, teamwork and loyalty?
 At LATICRETE International we are driven to be a top ten construction chemical company that still values family, diversity, collaboration and invention. We’ve been in business for over 60 years, family owned/operated for three generations and are available in 100 countries. In 2017, The Hartford Business Journal named us one of Connecticut’s Top Family Owned Companies!",3.4,Laticrete International,"Bethany, CT",0,0,75,75,75.0,0,1,0,0,0,0
-11,Plasma Scientist,$51K - $107K (Glassdoor est.),"The Research department is seeking a qualified plasma scientist to join our collaborative team. This is an integrated position with responsibilities including theoretical modeling, sensor development, sensor testing, and assisting with application development related to plasma-enhanced deposition. Etching and cleaning processes related to semiconductor manufacturing. The ideal candidate will be well versed in both detection of plasma and generation of micro plasma from atmospheric pressure to low vacuum conditions. INFICON is actively seeking applications from candidates of all backgrounds.
+Plasma Scientist,$51K - $107K (Glassdoor est.),"The Research department is seeking a qualified plasma scientist to join our collaborative team. This is an integrated position with responsibilities including theoretical modeling, sensor development, sensor testing, and assisting with application development related to plasma-enhanced deposition. Etching and cleaning processes related to semiconductor manufacturing. The ideal candidate will be well versed in both detection of plasma and generation of micro plasma from atmospheric pressure to low vacuum conditions. INFICON is actively seeking applications from candidates of all backgrounds.
 This person will be part of multi-disciplinary agile teams developing the next generation plasma sensors and plasma sources for INFICON sensors. Job responsibilities:
 Designing and performing plasma experiments in laboratory setting
 Performing computational formulations for plasma simulation
@@ -33,15 +33,15 @@ Preferred Requirements
 Preferred
 Preferred
 Preferred",3.1,"INFICON, Inc.","East Syracuse, NY",0,0,51,51,51.0,0,1,0,0,0,0
-12,R&D Scientist,$62K - $73K (Glassdoor est.),"LGC, Biosearch Technologies is seeking a detail-oriented and analytical team player to fulfill the role of Scientist in our Research and Development group in Middleton, WI. The individual will provide technical assistance to the R&D group in the areas of nucleic acid amplification and next generation sequencing. Experience in design and development of quantitative PCR and RT-PCR assays is a plus. The hired individual must have the ability to multi-task while maintaining precise documentation of experiments performed.
+R&D Scientist,$62K - $73K (Glassdoor est.),"LGC, Biosearch Technologies is seeking a detail-oriented and analytical team player to fulfill the role of Scientist in our Research and Development group in Middleton, WI. The individual will provide technical assistance to the R&D group in the areas of nucleic acid amplification and next generation sequencing. Experience in design and development of quantitative PCR and RT-PCR assays is a plus. The hired individual must have the ability to multi-task while maintaining precise documentation of experiments performed.
 
 Key responsibilities and accountabilities:
 Amplification (qPCR, RT-qPCR, isothermal amplification, digital PCR)
 Standard molecular biology techniques (DNA extraction/purification, PCR, cloning)",3.5,LGC Limited,"Middleton, WI",0,0,62,62,62.0,0,1,0,0,0,0
-14,Senior R&D Scientist,$98K - $121K (Glassdoor est.),"LGC, Biosearch Technologies is looking for a highly analytical and collaborative Senior Scientist to the R&D team at our our Middleton, WI, site. The Senior Scientist will be responsible for developing novel NGS tools and methodologies. The Senior Scientist will work collaboratively with internal and external partners, design and execute experimental plans, communicate results to colleagues and customers, manage and mentor junior scientists and contribute to LGC’s mission of Science for a Safer World.
+Senior R&D Scientist,$98K - $121K (Glassdoor est.),"LGC, Biosearch Technologies is looking for a highly analytical and collaborative Senior Scientist to the R&D team at our our Middleton, WI, site. The Senior Scientist will be responsible for developing novel NGS tools and methodologies. The Senior Scientist will work collaboratively with internal and external partners, design and execute experimental plans, communicate results to colleagues and customers, manage and mentor junior scientists and contribute to LGC’s mission of Science for a Safer World.
 
 LGC, Biosearch Technologies is a leader in providing reagents and technologies in the area of Next Generation Sequencing (NGS) for customers in agbio, biotech, pharma and academia. The company develops and markets various enzymes, oligos, beads and instruments for whole genome sequencing, amplicon sequencing, single cell sequencing and genotyping. LGC is a global leader in providing genotyping services with multiple USA sites.",3.5,LGC Limited,"Middleton, WI",0,0,98,98,98.0,0,1,0,0,0,0
-15,CLINICAL LABORATORY SCIENTIST,$24 - $39 Per Hour(Glassdoor est.),"White Plains Hospital Job Description
+CLINICAL LABORATORY SCIENTIST,$24 - $39 Per Hour(Glassdoor est.),"White Plains Hospital Job Description
 Title: Clinical Laboratory Scientist Job Code: 500285
 Department/Location: Department of Laboratories FLSA Status: NE
 Reports to: Section Laboratory Supervisor
@@ -51,7 +51,7 @@ other duties as assigned.
 
 Location: White Plains Hospital · Lab Microbiology
 Schedule: Part Time, Evening, three evenings/week/ alternating holidays",3.8,White Plains Hospital,"White Plains, NY",1,0,24,24,24.0,0,1,0,0,0,0
-16,Data Engineer,$44K - $87K (Glassdoor est.),"Schedule: Mon- Fri Overview:
+Data Engineer,$44K - $87K (Glassdoor est.),"Schedule: Mon- Fri Overview:
 The data engineer structures data for analytical access, performance and integration. The engineer must manage the balance of current and future needs in both design and content. This position designs and constructs enterprise-wide data and information architecture to support business intelligence and data integration management efforts. You will engineer and implement data warehouse and data mart concepts, and design and oversee strategies for data integration, metadata management, and business intelligence performance. You will partner with the business and leadership to prioritize data and information requirements and will help determine strategic direction of data asset management efforts.
 Responsibilities:
 Works with analytics information manager to develop a practical roadmap for analytic resource(s) and reporting platform(s).
@@ -65,25 +65,25 @@ Works with analytics information manager to develop a practical roadmap for anal
 
 
 Qualifications:",3.8,America First Credit Union,"Ogden, UT",0,0,44,44,44.0,0,1,0,0,0,0
-17,Data Visualization Scientist,$79K - $136K (Glassdoor est.),"Are you passionate about using data visualizations for understanding and solving complex and interesting problems?Have you worked with cutting-edge visualization frameworks to make data science/analytics findings relevant for technical and non-technical users?Do you value working in a creative and collaborative environment?If so, we are looking for someone like you to join our team!The Large-Scale Analytics Group (QAS) develops end-to-end systems that incorporate descriptive, predictive, and prescriptive analytics on different platforms. We utilize visual analytics to find information hidden deep within large and complex data sets. In QAS, we use visualizations to: Represent data and help our U.S. government partners easily understand their data.
+Data Visualization Scientist,$79K - $136K (Glassdoor est.),"Are you passionate about using data visualizations for understanding and solving complex and interesting problems?Have you worked with cutting-edge visualization frameworks to make data science/analytics findings relevant for technical and non-technical users?Do you value working in a creative and collaborative environment?If so, we are looking for someone like you to join our team!The Large-Scale Analytics Group (QAS) develops end-to-end systems that incorporate descriptive, predictive, and prescriptive analytics on different platforms. We utilize visual analytics to find information hidden deep within large and complex data sets. In QAS, we use visualizations to: Represent data and help our U.S. government partners easily understand their data.
 Uncover trends, changes, patterns, and anomalies in voluminous data sets.
 Embed in reports and presentations that are used to clearly communicate our data stories and analytic results.
 We are seeking data scientists who can apply data visualization standards, research new data visualization approaches, and employ various data visualization technologies and techniques. Your contributions to our team of data scientists, engineers, mathematicians, and computer scientists will help transform data into the knowledge that will enable decision-makers to make informed choices in defense of the nation. You will join a hardworking team in an inclusive environment that values intellectual curiosity, innovation and creativity.As a Data Visualization Scientist you will...
 
 
 Why work at APL?The Johns Hopkins University Applied Physics Laboratory (APL) brings world-class expertise to our nation's most critical defense, security, space and science challenges. While we are dedicated to solving complex challenges and pioneering new technologies, what makes us truly outstanding is our culture. We offer a vibrant, welcoming atmosphere where you can bring your authentic self to work, continue to grow, and build strong connections with inspiring teammates.At APL, we celebrate our differences and encourage creativity and bold, new ideas. Our employees enjoy generous benefits, including a robust education assistance program, unparalleled retirement contributions, and a healthy work/life balance. APL's campus is located in the Baltimore-Washington metro area. Learn more about our career opportunities at www.jhuapl.edu/careers.",4.7,Johns Hopkins Applied Physics Laboratory (APL),"Laurel, MD",0,0,79,79,79.0,0,1,0,0,0,0
-18,Associate Analytical Scientist,$38K - $67K (Glassdoor est.),"Position Overview:
+Associate Analytical Scientist,$38K - $67K (Glassdoor est.),"Position Overview:
 Catalent hires people with a passion to make a difference to the health of millions of people globally. Your expertise, coupled with Catalent’s advanced technologies and collaboration with thousands of innovative pharmaceutical, biotech and healthcare companies, will help bring life-enhancing products to the people you know and love. Your talents , ideas and passion are essential to our mission; to develop, manufacture and supply products that help people live better, healthier lives. Interested in learning more about life at Catalent? Start here
 Associate Analytical Scientist
 The Associate Analytical Scientist reports to the Supervisor
 The Associate Analytical Scientist is responsible for performing analytical method research and development for raw materials, in-process samples and drug products in the Quality Control Department. Associate Analytical Scientists work on method transfer, method verification and method validation under close guidance in support of clinical development and commercial manufacturing. The candidate will work closely with analytical R&D (NPIx) team to provide analytical results for drug product development and process validation. When necessary, the Associate Analytical Scientist will conduct routine analytical testing for raw materials, in-process samples, drug products and cleaning verification, QC investigational testing in support of commercial product manufacturing.",3.5,Catalent Pharma Solutions,"Winchester, KY",0,0,38,38,38.0,0,1,0,0,0,0
-19,-1,$61K - $84K (Glassdoor est.),-1,-1.0,-1,-1,0,0,61,61,61.0,0,1,0,0,0,0
-20,Associate Scientist,$35K - $72K (Glassdoor est.),"Sanvita Medical, an exciting new medical device company in diabetes healthcare operating within one of Nova Biomedical’s facilities, is hiring an Associate Scientist in Billerica, MA. This is an opportunity for a recent STEM grad to work within a multi-disciplinary team conducting research and development of chemical/ biological sensors. Starting out, significant part of responsibilities of this role will include performing data entry.
+-1,$61K - $84K (Glassdoor est.),-1,-1.0,-1,-1,0,0,61,61,61.0,0,1,0,0,0,0
+Associate Scientist,$35K - $72K (Glassdoor est.),"Sanvita Medical, an exciting new medical device company in diabetes healthcare operating within one of Nova Biomedical’s facilities, is hiring an Associate Scientist in Billerica, MA. This is an opportunity for a recent STEM grad to work within a multi-disciplinary team conducting research and development of chemical/ biological sensors. Starting out, significant part of responsibilities of this role will include performing data entry.
 Responsibilities
 Perform data entry of clinical research records and other scientific data with high level of accuracy.
 Conduct research in assigned areas under general supervision using established methodologies.
 Develop laboratory skills and familiarity with equipment for operation, maintenance, and raw data gathering.",3.6,Nova Biomedical,"Billerica, MA",0,0,35,35,35.0,0,1,0,0,0,0
-21,Data Engineer,$61K - $69K (Glassdoor est.),"Overview:
+Data Engineer,$61K - $69K (Glassdoor est.),"Overview:
 Do you enjoy working with other people and finding solutions when everyone else only see problems?
 Are you compelled to initiate action and remain proactive in getting things done?
 Do you take pride in the work you accomplish?
@@ -97,16 +97,16 @@ Responsibilities:
 
 
 Qualifications:",4.5,Idaho Central Credit Union,"Chubbuck, ID",0,0,61,61,61.0,0,1,0,0,0,0
-22,Associate Data Scientist I or II,$91K - $97K (Glassdoor est.),"BioFire Diagnostics, LLC. is seeking a bright and motivated individual to join our Data Science team. The candidate's primary responsibility will be to provide analytics for data collected during reagent manufacturing operations and Post Market Surveillance at BioFire Diagnostics to help improve products and product operations. The candidate is expected to partner with multiple product operations teams, so they should have strong interdisciplinary communication skills (both written and oral). The candidate will be embedded in the BioMathematics department, but will also have close collaboration with the Data Analytics, Manufacturing, Quality Assurance, and Post Market Surveillance groups among others.
+Associate Data Scientist I or II,$91K - $97K (Glassdoor est.),"BioFire Diagnostics, LLC. is seeking a bright and motivated individual to join our Data Science team. The candidate's primary responsibility will be to provide analytics for data collected during reagent manufacturing operations and Post Market Surveillance at BioFire Diagnostics to help improve products and product operations. The candidate is expected to partner with multiple product operations teams, so they should have strong interdisciplinary communication skills (both written and oral). The candidate will be embedded in the BioMathematics department, but will also have close collaboration with the Data Analytics, Manufacturing, Quality Assurance, and Post Market Surveillance groups among others.
 
 The ideal candidate will have:
 
 A minimum of a B.S. in engineering, statistics, mathematics, computer science, or scientific field",3.8,"BioFire Diagnostics, LLC.","Salt Lake City, UT",0,0,91,91,91.0,0,1,0,0,0,0
-23,Scientist I or II,$67K - $68K (Glassdoor est.),"BioFire Diagnostics (BFDX), LLC. is looking for a Scientist I or II to join Research and Development department. This is a full time exempt position.
+Scientist I or II,$67K - $68K (Glassdoor est.),"BioFire Diagnostics (BFDX), LLC. is looking for a Scientist I or II to join Research and Development department. This is a full time exempt position.
 The Scientist's primary responsibility will be to initiate, design and execute the development of new BFDX’s molecular diagnostic products. The scientist will also be expected to investigate the feasibility of applying a wide variety of scientific principles and concepts to potential inventions, productions and problems.
 Candidate is expected to have strong analytical and problem-solving skills, an excellence in experimental design, troubleshooting, and data analysis, the ability to execute and multi-task activities with minimal supervision in a fast-pace environment as well as the ability to manage a small team of research staff
 Candidate should be familiar with a variety of the molecular diagnostic concepts, practices, and procedures including PCR, RT-PCR real-time PCR, use of fluorescence-based nucleic acid detection techniques, and sequencing. Desired, experience using computational analyses as a tool to analyze large data sets and applying core language skills to manipulate, shape, and analyze data.",3.8,"BioFire Diagnostics, LLC.","Salt Lake City, UT",0,0,67,67,67.0,0,1,0,1,0,0
-26,Medical Laboratory Scientist/Medical Technologist,$17 - $23 Per Hour(Glassdoor est.),"MedLogic Laboratory
+Medical Laboratory Scientist/Medical Technologist,$17 - $23 Per Hour(Glassdoor est.),"MedLogic Laboratory
 Molecular Technologist
 Location: Baton Rouge, LA
 Position Description
@@ -114,7 +114,7 @@ Laboratory Tasks
 Perform complex clinical testing including but not limited to Nucleic acids extraction, and qPCR and ensures the proper use of all protocols.
 Prepare biological material for downstream genetic testing and analysis.
 Calibrate instrumentation, validate quality of assay, perform cleaning, maintenance, alignment procedures, quality assurance assays, and troubleshooting on equipment.",2.0,MedLogic Laboratories,"Baton Rouge, LA",1,0,17,17,17.0,0,1,0,0,0,0
-27,Data Engineer,$76K - $133K (Glassdoor est.),"The NFI Data and Analytics group is looking for a Data Engineer based in the Camden New Jersey headquarters to join our growing team to complement the current multitude and wide variety of team skills to support NFI’s needs for data driven analytics. Guided by NFI’s shared values, we work in an environment where collaboration, teamwork, respect, and openness are highly valued.
+Data Engineer,$76K - $133K (Glassdoor est.),"The NFI Data and Analytics group is looking for a Data Engineer based in the Camden New Jersey headquarters to join our growing team to complement the current multitude and wide variety of team skills to support NFI’s needs for data driven analytics. Guided by NFI’s shared values, we work in an environment where collaboration, teamwork, respect, and openness are highly valued.
 
 Essential Duties & Responsibilities:
 Data modeling and dimensional schema design
@@ -181,7 +181,7 @@ Warehousing or Transportation Logistics experience, a plus
 #LI-SW1
 
 Please, no phone calls or emails to any employee of NFI about this opening. All resumes submitted by search firms/employment agencies to any employee at NFI via-email, the internet or in any form and/or method will be deemed the sole property of NFI, unless such search firms/employment agencies were engaged by NFI for this position and a valid agreement with NFI is in place. In the event a candidate who was submitted outside of the NFI agency engagement process is hired, no fee or payment of any kind will be paid.",3.3,NFI Industries,"Camden, NJ",0,0,76,76,76.0,1,1,0,1,0,1
-28,Data & Analytics Consultant,$81K - $123K (Glassdoor est.),"WHO WE LOOK FOR
+Data & Analytics Consultant,$81K - $123K (Glassdoor est.),"WHO WE LOOK FOR
 
 An SEI Consultant is a master communicator and active listener who understands how to navigate an audience. Self-aware, almost to a fault, SEI consultants keenly understand how to adjust their approach based on the situation. Following a logical, fact-based approach, our consultants possess the superior ability to see correlations others may not, ask the right questions and drive solutions.
 
@@ -196,7 +196,7 @@ Our consultants work with clients at all levels of the organization, from the C-
 We are actively looking for professionals in the following areas:
 The ideal candidate will:
 Ideal candidates may call themselves Data Engineers, Data Scientists and Analysts and Data Governance professionals. Experience may include but is not limited to the following:",4.6,SEI,"Cincinnati, OH",0,0,81,81,81.0,0,1,0,1,0,0
-29,Analytical Scientist,$40K - $71K (Glassdoor est.),"Position Overview:
+Analytical Scientist,$40K - $71K (Glassdoor est.),"Position Overview:
 Catalent hires people with a passion to make a difference to the health of millions of people globally. Your expertise, coupled with Catalent’s advanced technologies and collaboration with thousands of innovative pharmaceutical, biotech and healthcare companies, will help bring life-enhancing products to the people you know and love. Your talents , ideas and passion are essential to our mission; to develop, manufacture and supply products that help people live better, healthier lives. Interested in learning more about life at Catalent? Start here
 Analytical Scientist
 The Analytical Scientist reports to the Associate Director
