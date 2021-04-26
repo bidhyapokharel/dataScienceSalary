@@ -33,11 +33,31 @@ model = sm.OLS(y,x).fit()
 print(model.summary())
 
 
+from sklearn.linear_model import LinearRegression, Lasso
+from sklearn.model_selection import cross_val_score
+
+ln = LinearRegression()
+ln.fit(x_train, y_train)
+
+np.mean(cross_val_score(ln,x_train,y_train,scoring='neg_mean_absolute_error',cv=3))
+
 #lasso regression
+ln_l = Lasso()
+np.mean(cross_val_score(ln_l, x_train, y_train, scoring='neg_mean_absolute_error',cv=3))
 
+alpha = []
+error = []
 
+for i in range(1,100):
+    alpha.append(i/10)
+    lms = Lasso(alpha=i/10)
+    error.append(np.mean(cross_val_score(ln_l, x_train, y_train, scoring='neg_mean_absolute_error',cv=3)))
+    
+plt.plot(alpha,error)
 
-
+err = tuple(zip(alpha,error))
+df_err = pd.DataFrame(err, columns=['alpha','error'])
+df_err[df_err == max(df_err)]
 #random forest
 
 #tune models GridSearchCV
