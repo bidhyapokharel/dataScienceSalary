@@ -1,47 +1,51 @@
-Job Title,Salary Estimate,Job Description,Rating,Company Name,Location
-Staff Data Scientist,-1,"WHO WE ARE:
-Voted one of the Top 100 Fastest Growing Companies in the Bay Area for 2020, Freedom Financial Network is a family of companies that takes a people-first approach to financial services, using technology to empower consumers to overcome debt and create a brighter financial future. The company was founded in 2002 by Brad Stroh and Andrew Housser on the belief that by staying committed to helping people, you can ensure better financial outcomes for both the customer and the business. This Heart/$ philosophy still guides the vision of our growing company, which has helped millions of people find solutions for their financial needs.
-What began with 2 people in a spare bedroom has now rapidly expanded to a vibrant business that employs over 2000 employees (known internally as The Freedom Family) in two locations: San Mateo, CA and Tempe, AZ. When you visit either of our offices, you‚Äôll understand why our employees have voted us the Best Place to Work for the last several years. It‚Äôs a place where the Heart/$ philosophy continues to thrive, where we believe that success is only achieved by doing what‚Äôs right for our customers, our employees, and our communities.
-Some of the key responsibilities for the Analytic Scientist will include:",3.5,Freedom Financial Network,"Tempe, AZ"
-DATA SCIENTIST-HEALTHCARE,$56K - $96K (Glassdoor est.),"The Data Scientist has a deep understanding of big data and will help the Agile teams in building and enabling big data analytics solutions. Works with the Agile squad and the business users to continuously collect insight from maintenance data and enable digital use cases
+,Job Title,Salary Estimate,Job Description,Rating,Company Name,Location
+0,DATA SCIENTIST-HEALTHCARE,-1,"The Data Scientist has a deep understanding of big data and will help the Agile teams in building and enabling big data analytics solutions. Works with the Agile squad and the business users to continuously collect insight from maintenance data and enable digital use cases
 
 Education
 Type of degree: Master's Degree or PhD
 Area of study or major: Information Technology, Computer Science, or a relative quantitative discipline
 Experience",3.7,Premier Health,"Dayton, OH"
-Principal Data Scientist,$139K - $214K (Glassdoor est.),"Working out of our Chevy Chase, MD/Washington DC office, GEICO's Data Science team uses predictive analytics and innovative machine learning models to create value from data. We solve problems across GEICO, from Marketing to Claims and Underwriting, and are responsible for developing and driving strategic modeling initiatives. We see our projects through the entire data science lifecycle, from problem definition to data exploration, data munging, modeling, analysis, and deployment into production systems. We maintain a close partnership with IT to ensure that our models can be deployed quickly and monitored in a flexible deployment framework.
-As a Principal Data Scientist, you will work with a talented and diverse team of data scientists with responsibility to:
-Coordinate project teams of data scientists and supporting roles, acting as the primary point of contact in delivering end-to-end innovative, high-quality data solutions with measurable business value",3.5,GEICO,"Chevy Chase, MD"
-Research Scientist I - Essentia,-1,"New product development of broths, stocks, flavors, animal fats and functional collagen products; lead and conduct pilot plant and production plant trials; support operations with technical expertise to improve quality / reduce cost of existing products; collaborate and provide technical support to internal cross functional groups and external customers; propose and identify new technological opportunities.
+1,Staff Data Scientist,-1,"WHO WE ARE:
+Voted one of the Top 100 Fastest Growing Companies in the Bay Area for 2020, Freedom Financial Network is a family of companies that takes a people-first approach to financial services, using technology to empower consumers to overcome debt and create a brighter financial future. The company was founded in 2002 by Brad Stroh and Andrew Housser on the belief that by staying committed to helping people, you can ensure better financial outcomes for both the customer and the business. This Heart/$ philosophy still guides the vision of our growing company, which has helped millions of people find solutions for their financial needs.
+What began with 2 people in a spare bedroom has now rapidly expanded to a vibrant business that employs over 2000 employees (known internally as The Freedom Family) in two locations: San Mateo, CA and Tempe, AZ. When you visit either of our offices, youíll understand why our employees have voted us the Best Place to Work for the last several years. Itís a place where the Heart/$ philosophy continues to thrive, where we believe that success is only achieved by doing whatís right for our customers, our employees, and our communities.
+Some of the key responsibilities for the Analytic Scientist will include:",3.5,Freedom Financial Network,"Tempe, AZ"
+2,R&D Scientist,$62K - $73K (Glassdoor est.),"LGC, Biosearch Technologies is seeking a detail-oriented and analytical team player to fulfill the role of Scientist in our Research and Development group in Middleton, WI. The individual will provide technical assistance to the R&D group in the areas of nucleic acid amplification and next generation sequencing. Experience in design and development of quantitative PCR and RT-PCR assays is a plus. The hired individual must have the ability to multi-task while maintaining precise documentation of experiments performed.
+
+Key responsibilities and accountabilities:
+Amplification (qPCR, RT-qPCR, isothermal amplification, digital PCR)
+Standard molecular biology techniques (DNA extraction/purification, PCR, cloning)",3.5,LGC Limited,"Middleton, WI"
+3,Business Intelligence Data Analyst,$64K - $77K (Glassdoor est.),"Business Intelligence Data Analyst
+Location: Remote Position
+BankSouth seeks an experienced Business Intelligence Data Analyst. This position works with the Innovation Team lead by the SVP, Chief Innovation Officer. This is a full-time opportunity to work remotely with a small team of seasoned marketing professionals. The Marketing Department uses data analytics and creative content strategy and execution programs to offer a digital-only banking experience for current and future customers. The successful candidate will have thorough knowledge of collecting, analyzing and interpreting data and results to identify actionable insights and recommendations for use in new deposit relationship creation. This position identifies, analyzes, and interprets trends or patterns in complex data to provide answers to business questions as well as offer support in the collaborative creation of successful multi-lateral marketing campaigns.",3.9,BANKSOUTH,"Greensboro, GA"
+4,Data Scientist,$120K - $121K (Glassdoor est.),"Who Are We?
+QinetiQ Inc. is a leading innovator with over 25 years of experience rapidly developing advanced C5ISR sensor solutions and is a renowned world leader in robotics and autonomy.
+The combined QinetiQ U.S. business unit brings capabilities across the full lifecycle of technology development from applied research and development to rapid prototyping, testing, fielding, and sustainment. Our expertise with unmanned platforms, broad sensing modalities, and cross-domain interoperability ensures that we deliver integrated solutions for Warfighter dominance in all phases of combat.
+We are a world-class team of professionals who deliver next generation technology and products in robotic and autonomous platforms and systems, ground systems, soldier systems, maritime systems, airborne sensors and payloads, processing and exploitation capabilities, and integrated C2 solutions. Much of our work contributes to innovative research in ?elds such as sensor science, signal processing, data fusion, arti?cial intelligence (AI), machine learning (ML), and augmented reality (AR).",2.5,QinetiQ Inc.,"Lorton, VA"
+5,-1,$35K - $62K (Glassdoor est.),-1,-1,-1,-1
+6,-1,$139K - $193K (Glassdoor est.),-1,-1,-1,-1
+7,Workforce Data Analyst,$38K - $65K (Glassdoor est.),"Overview:
+Heritage Christian Services is seeking candidates for a Workforce Data Analyst position. In this role you will be responsible for the day-to-day administration of iCIMS, the applicant tracking system, and HireVue, the video interview technology and analysis of workforce data; which contributes to positioning Heritage Christian Services as a premier employer. In addition, you will connect with candidates to ensure their application experience is positive by providing technical assistance and outstanding customer service.
+Responsibilities:
+Serve as system administrator for applicant tracking system (iCIMS) and HireVue.
+Track applicant status on iCIMS and HireVue daily.
+Review iCIMS completed applications and HireVue on demand interviews; sending scheduling link to qualified candidates.
+Qualifications:",3.5,Heritage Christian Services,"Rochester, NY"
+8,Research Scientist I - Essentia,-1,"New product development of broths, stocks, flavors, animal fats and functional collagen products; lead and conduct pilot plant and production plant trials; support operations with technical expertise to improve quality / reduce cost of existing products; collaborate and provide technical support to internal cross functional groups and external customers; propose and identify new technological opportunities.
 JOB QUALIFICATIONS:
 Education and Experience:
 Bachelor of Science degree plus a minimum of 4 years of experience
 Master of Science plus 2 years of experience",2.8,The Lauridsen Group,"Ankeny, IA"
-Senior Scientist,$68K - $97K (Glassdoor est.),"Position Summary:
-The Senior Scientist is a multi-disciplinary molecular biology position that will provide leadership to the organization as part of the Integrated Solutions team, bringing curiosity, problem solving skills, and scientific acumen to LGC. The Integrated Solutions team supports various wings of the organization such as Research and Development, Sales, Marketing, Customer Service, and Manufacturing.
-The scope of this position will include scientific leadership of new product development, research into previously unexplored areas, development of applications for existing products, and continued customer support. This may include developing new testing methodologies, troubleshooting data, converting potential customers to LGC products, and searching literature for emerging technologies in relevant fields. This position will require extensive knowledge from genomics, molecular biology, chemistry, PCR-based genetic analysis, and laboratory automation.",3.5,LGC Limited,"Alexandria, MN"
-Staff Data Scientist,$114K - $144K (Glassdoor est.),"Alteryx is searching for a Staff Data Scientist in our Boston office.
-We‚Äôre looking for problem solvers, innovators, and dreamers who are searching for anything but business as usual. Like us, you‚Äôre a high performer who‚Äôs an expert at your craft, constantly challenging the status quo. You value inclusivity and want to join a culture that empowers you to show up as your authentic self. You know that success hinges on commitment, that our differences make us stronger, and that the finish line is always sweeter when the whole team crosses together.
+9,Associate Scientist,$35K - $72K (Glassdoor est.),"Sanvita Medical, an exciting new medical device company in diabetes healthcare operating within one of Nova Biomedicalís facilities, is hiring an Associate Scientist in Billerica, MA. This is an opportunity for a recent STEM grad to work within a multi-disciplinary team conducting research and development of chemical/ biological sensors. Starting out, significant part of responsibilities of this role will include performing data entry.
+Responsibilities
+Perform data entry of clinical research records and other scientific data with high level of accuracy.
+Conduct research in assigned areas under general supervision using established methodologies.
+Develop laboratory skills and familiarity with equipment for operation, maintenance, and raw data gathering.",3.6,Nova Biomedical,"Billerica, MA"
+10,Staff Data Scientist,$114K - $144K (Glassdoor est.),"Alteryx is searching for a Staff Data Scientist in our Boston office.
+Weíre looking for problem solvers, innovators, and dreamers who are searching for anything but business as usual. Like us, youíre a high performer whoís an expert at your craft, constantly challenging the status quo. You value inclusivity and want to join a culture that empowers you to show up as your authentic self. You know that success hinges on commitment, that our differences make us stronger, and that the finish line is always sweeter when the whole team crosses together.
 Alteryx Innovation Labs
-The Innovation Labs office, Alteryx's first office presence in Boston, was started earlier this year by the acquisition of MIT-spinout Feature Labs . This rapidly growing team combines the excitement of being part of a fast-paced, innovative startup with the resources, market penetration, and wisdom of a data analytics market leader. Our goal is to turbo-charge machine learning and data science efforts on the Alteryx platform, and to enable anyone to solve dynamic problems. We are working on high-impact, high-visibility projects, and we‚Äôre looking for collaborative and knowledge-hungry teammates who want to join us as we work to democratize machine learning.",3.5,"Alteryx, Inc.","Boston, MA"
-Data Scientist,$120K - $121K (Glassdoor est.),"Who Are We?
-QinetiQ Inc. is a leading innovator with over 25 years of experience rapidly developing advanced C5ISR sensor solutions and is a renowned world leader in robotics and autonomy.
-The combined QinetiQ U.S. business unit brings capabilities across the full lifecycle of technology development from applied research and development to rapid prototyping, testing, fielding, and sustainment. Our expertise with unmanned platforms, broad sensing modalities, and cross-domain interoperability ensures that we deliver integrated solutions for Warfighter dominance in all phases of combat.
-We are a world-class team of professionals who deliver next generation technology and products in robotic and autonomous platforms and systems, ground systems, soldier systems, maritime systems, airborne sensors and payloads, processing and exploitation capabilities, and integrated C2 solutions. Much of our work contributes to innovative research in Ô¨Åelds such as sensor science, signal processing, data fusion, artiÔ¨Åcial intelligence (AI), machine learning (ML), and augmented reality (AR).",2.5,QinetiQ Inc.,"Lorton, VA"
-Scientist,-1,"Scientist I (Part-time)
-FLSA STATUS: Non-Exempt
-DEPARTMENT: Water Quality & Compliance
-REPORTS TO: Manager ‚Äì Water Quality & Compliance
-JOB SUMMARY
-This position is responsible for coordinating and executing various activities within the water quality and research department to ensure compliance with drinking water regulations and further program development.",3.4,Louisville Water Company,"Louisville, KY"
-Senior Scientist,$75K - $146K (Glassdoor est.),"Classification:
-Salary
-Job Description:
-Are you looking for a new challenge? Passionate about innovation? Want to work for a company that values integrity, teamwork and loyalty?
-At LATICRETE International we are driven to be a top ten construction chemical company that still values family, diversity, collaboration and invention. We‚Äôve been in business for over 60 years, family owned/operated for three generations and are available in 100 countries. In 2017, The Hartford Business Journal named us one of Connecticut‚Äôs Top Family Owned Companies!",3.4,Laticrete International,"Bethany, CT"
--1,-1,-1,-1,-1,-1
-Data Scientist,-1,"Job Posting End Date: April 20
-Unum is a company of people serving people. As one of the world's leading employee benefits providers and a Fortune 500 company, Unum's financial protection benefits help protect more than 36 million working people and their families from the financial impact of illness or injury. Unum's three distinct, but similarly focused US businesses ‚Äì Unum US, Colonial Life, and Starmount Life ‚Äì are each a market leader in making disability, life, accident, critical illness, dental, and vision insurance accessible in the workplace.
+The Innovation Labs office, Alteryx's first office presence in Boston, was started earlier this year by the acquisition of MIT-spinout Feature Labs . This rapidly growing team combines the excitement of being part of a fast-paced, innovative startup with the resources, market penetration, and wisdom of a data analytics market leader. Our goal is to turbo-charge machine learning and data science efforts on the Alteryx platform, and to enable anyone to solve dynamic problems. We are working on high-impact, high-visibility projects, and weíre looking for collaborative and knowledge-hungry teammates who want to join us as we work to democratize machine learning.",3.5,"Alteryx, Inc.","Boston, MA"
+11,Data Scientist,-1,"Job Posting End Date: April 20
+Unum is a company of people serving people. As one of the world's leading employee benefits providers and a Fortune 500 company, Unum's financial protection benefits help protect more than 36 million working people and their families from the financial impact of illness or injury. Unum's three distinct, but similarly focused US businesses ñ Unum US, Colonial Life, and Starmount Life ñ are each a market leader in making disability, life, accident, critical illness, dental, and vision insurance accessible in the workplace.
 Headquartered in Chattanooga, Tennessee, Unum also has significant US operations in Portland, Maine, - and over 35 field offices nationwide. Colonial Life is headquartered in Columbia, South Carolina with over 40 field offices nationwide. Starmount Life is based in Baton Rouge, Louisiana, and is the dental and vision center of excellence for Unum in the US.
 General Summary:
 General Summary
@@ -50,183 +54,17 @@ This position for a developing data scientist who is excited to transform data i
 Position will interface with actuaries on pricing, reserving, and risk.
 
 Unum",3.8,Unum,"Portland, ME"
-Plasma Scientist,$51K - $107K (Glassdoor est.),"The Research department is seeking a qualified plasma scientist to join our collaborative team. This is an integrated position with responsibilities including theoretical modeling, sensor development, sensor testing, and assisting with application development related to plasma-enhanced deposition. Etching and cleaning processes related to semiconductor manufacturing. The ideal candidate will be well versed in both detection of plasma and generation of micro plasma from atmospheric pressure to low vacuum conditions. INFICON is actively seeking applications from candidates of all backgrounds.
-This person will be part of multi-disciplinary agile teams developing the next generation plasma sensors and plasma sources for INFICON sensors. Job responsibilities:
-Designing and performing plasma experiments in laboratory setting
-Performing computational formulations for plasma simulation
-Preferred Requirements
+12,Data Scientist,-1,"Job Posting End Date: April 20
+Unum is a company of people serving people. As one of the world's leading employee benefits providers and a Fortune 500 company, Unum's financial protection benefits help protect more than 36 million working people and their families from the financial impact of illness or injury. Unum's three distinct, but similarly focused US businesses ñ Unum US, Colonial Life, and Starmount Life ñ are each a market leader in making disability, life, accident, critical illness, dental, and vision insurance accessible in the workplace.
+Headquartered in Chattanooga, Tennessee, Unum also has significant US operations in Portland, Maine, - and over 35 field offices nationwide. Colonial Life is headquartered in Columbia, South Carolina with over 40 field offices nationwide. Starmount Life is based in Baton Rouge, Louisiana, and is the dental and vision center of excellence for Unum in the US.
+General Summary:
+General Summary
+This position for a developing data scientist who is excited to transform data into actionable insights and impact the business through his/her work. The role requires increasing technical expertise in the fields of computer programming, applied statistics and data manipulation; and relies on developing business knowledge. The individual will participate in project work primarily within the functional area, with direction and review by manager. The individual is expected to continuously increase business knowledge and take initiative in identifying and executing analytical approaches to support assigned projects.
 
-Preferred
-Preferred
-Preferred",3.1,"INFICON, Inc.","East Syracuse, NY"
-R&D Scientist,$62K - $73K (Glassdoor est.),"LGC, Biosearch Technologies is seeking a detail-oriented and analytical team player to fulfill the role of Scientist in our Research and Development group in Middleton, WI. The individual will provide technical assistance to the R&D group in the areas of nucleic acid amplification and next generation sequencing. Experience in design and development of quantitative PCR and RT-PCR assays is a plus. The hired individual must have the ability to multi-task while maintaining precise documentation of experiments performed.
+Position will interface with actuaries on pricing, reserving, and risk.
 
-Key responsibilities and accountabilities:
-Amplification (qPCR, RT-qPCR, isothermal amplification, digital PCR)
-Standard molecular biology techniques (DNA extraction/purification, PCR, cloning)",3.5,LGC Limited,"Middleton, WI"
--1,-1,-1,-1,-1,-1
-Senior R&D Scientist,$98K - $121K (Glassdoor est.),"LGC, Biosearch Technologies is looking for a highly analytical and collaborative Senior Scientist to the R&D team at our our Middleton, WI, site. The Senior Scientist will be responsible for developing novel NGS tools and methodologies. The Senior Scientist will work collaboratively with internal and external partners, design and execute experimental plans, communicate results to colleagues and customers, manage and mentor junior scientists and contribute to LGC‚Äôs mission of Science for a Safer World.
+Unum",3.8,Unum,"Portland, ME"
+13,Senior R&D Scientist,$98K - $121K (Glassdoor est.),"LGC, Biosearch Technologies is looking for a highly analytical and collaborative Senior Scientist to the R&D team at our our Middleton, WI, site. The Senior Scientist will be responsible for developing novel NGS tools and methodologies. The Senior Scientist will work collaboratively with internal and external partners, design and execute experimental plans, communicate results to colleagues and customers, manage and mentor junior scientists and contribute to LGCís mission of Science for a Safer World.
 
 LGC, Biosearch Technologies is a leader in providing reagents and technologies in the area of Next Generation Sequencing (NGS) for customers in agbio, biotech, pharma and academia. The company develops and markets various enzymes, oligos, beads and instruments for whole genome sequencing, amplicon sequencing, single cell sequencing and genotyping. LGC is a global leader in providing genotyping services with multiple USA sites.",3.5,LGC Limited,"Middleton, WI"
-CLINICAL LABORATORY SCIENTIST,$24 - $39 Per Hour(Glassdoor est.),"White Plains Hospital Job Description
-Title: Clinical Laboratory Scientist Job Code: 500285
-Department/Location: Department of Laboratories FLSA Status: NE
-Reports to: Section Laboratory Supervisor
-Position Summary
-The Clinical Laboratory Scientist performs laboratory testing using both manual and automated techniques. Performs
-other duties as assigned.
-
-Location: White Plains Hospital ¬∑ Lab Microbiology
-Schedule: Part Time, Evening, three evenings/week/ alternating holidays",3.8,White Plains Hospital,"White Plains, NY"
-Data Engineer,$44K - $87K (Glassdoor est.),"Schedule: Mon- Fri Overview:
-The data engineer structures data for analytical access, performance and integration. The engineer must manage the balance of current and future needs in both design and content. This position designs and constructs enterprise-wide data and information architecture to support business intelligence and data integration management efforts. You will engineer and implement data warehouse and data mart concepts, and design and oversee strategies for data integration, metadata management, and business intelligence performance. You will partner with the business and leadership to prioritize data and information requirements and will help determine strategic direction of data asset management efforts.
-Responsibilities:
-Works with analytics information manager to develop a practical roadmap for analytic resource(s) and reporting platform(s).
-
-
-
-
-
-
-
-
-
-Qualifications:",3.8,America First Credit Union,"Ogden, UT"
-Data Visualization Scientist,$79K - $136K (Glassdoor est.),"Are you passionate about using data visualizations for understanding and solving complex and interesting problems?Have you worked with cutting-edge visualization frameworks to make data science/analytics findings relevant for technical and non-technical users?Do you value working in a creative and collaborative environment?If so, we are looking for someone like you to join our team!The Large-Scale Analytics Group (QAS) develops end-to-end systems that incorporate descriptive, predictive, and prescriptive analytics on different platforms. We utilize visual analytics to find information hidden deep within large and complex data sets. In QAS, we use visualizations to: Represent data and help our U.S. government partners easily understand their data.
-Uncover trends, changes, patterns, and anomalies in voluminous data sets.
-Embed in reports and presentations that are used to clearly communicate our data stories and analytic results.
-We are seeking data scientists who can apply data visualization standards, research new data visualization approaches, and employ various data visualization technologies and techniques. Your contributions to our team of data scientists, engineers, mathematicians, and computer scientists will help transform data into the knowledge that will enable decision-makers to make informed choices in defense of the nation. You will join a hardworking team in an inclusive environment that values intellectual curiosity, innovation and creativity.As a Data Visualization Scientist you will...
-
-
-Why work at APL?The Johns Hopkins University Applied Physics Laboratory (APL) brings world-class expertise to our nation's most critical defense, security, space and science challenges. While we are dedicated to solving complex challenges and pioneering new technologies, what makes us truly outstanding is our culture. We offer a vibrant, welcoming atmosphere where you can bring your authentic self to work, continue to grow, and build strong connections with inspiring teammates.At APL, we celebrate our differences and encourage creativity and bold, new ideas. Our employees enjoy generous benefits, including a robust education assistance program, unparalleled retirement contributions, and a healthy work/life balance. APL's campus is located in the Baltimore-Washington metro area. Learn more about our career opportunities at www.jhuapl.edu/careers.",4.7,Johns Hopkins Applied Physics Laboratory (APL),"Laurel, MD"
-Associate Analytical Scientist,$38K - $67K (Glassdoor est.),"Position Overview:
-Catalent hires people with a passion to make a difference to the health of millions of people globally. Your expertise, coupled with Catalent‚Äôs advanced technologies and collaboration with thousands of innovative pharmaceutical, biotech and healthcare companies, will help bring life-enhancing products to the people you know and love. Your talents , ideas and passion are essential to our mission; to develop, manufacture and supply products that help people live better, healthier lives. Interested in learning more about life at Catalent? Start here
-Associate Analytical Scientist
-The Associate Analytical Scientist reports to the Supervisor
-The Associate Analytical Scientist is responsible for performing analytical method research and development for raw materials, in-process samples and drug products in the Quality Control Department. Associate Analytical Scientists work on method transfer, method verification and method validation under close guidance in support of clinical development and commercial manufacturing. The candidate will work closely with analytical R&D (NPIx) team to provide analytical results for drug product development and process validation. When necessary, the Associate Analytical Scientist will conduct routine analytical testing for raw materials, in-process samples, drug products and cleaning verification, QC investigational testing in support of commercial product manufacturing.",3.5,Catalent Pharma Solutions,"Winchester, KY"
--1,$61K - $84K (Glassdoor est.),-1,-1,-1,-1
-Associate Scientist,$35K - $72K (Glassdoor est.),"Sanvita Medical, an exciting new medical device company in diabetes healthcare operating within one of Nova Biomedical‚Äôs facilities, is hiring an Associate Scientist in Billerica, MA. This is an opportunity for a recent STEM grad to work within a multi-disciplinary team conducting research and development of chemical/ biological sensors. Starting out, significant part of responsibilities of this role will include performing data entry.
-Responsibilities
-Perform data entry of clinical research records and other scientific data with high level of accuracy.
-Conduct research in assigned areas under general supervision using established methodologies.
-Develop laboratory skills and familiarity with equipment for operation, maintenance, and raw data gathering.",3.6,Nova Biomedical,"Billerica, MA"
-Data Engineer,$61K - $69K (Glassdoor est.),"Overview:
-Do you enjoy working with other people and finding solutions when everyone else only see problems?
-Are you compelled to initiate action and remain proactive in getting things done?
-Do you take pride in the work you accomplish?
-Does success motivate you to want to do more and be better?
-Can you handle multiple projects at the same time and smile?
-If you can answer yes to these questions Idaho Central Credit Union is ready for you to join our team!
-
-The Data Engineer is responsible for architecting, managing, optimizing, overseeing and monitoring data retrieval, storage and distribution. This role is responsible for the technical aspects and enhancements of the data integration tools, enterprise data warehouse, data lake, and enterprise reporting tools.
-
-Responsibilities:
-
-
-Qualifications:",4.5,Idaho Central Credit Union,"Chubbuck, ID"
-Associate Data Scientist I or II,$91K - $97K (Glassdoor est.),"BioFire Diagnostics, LLC. is seeking a bright and motivated individual to join our Data Science team. The candidate's primary responsibility will be to provide analytics for data collected during reagent manufacturing operations and Post Market Surveillance at BioFire Diagnostics to help improve products and product operations. The candidate is expected to partner with multiple product operations teams, so they should have strong interdisciplinary communication skills (both written and oral). The candidate will be embedded in the BioMathematics department, but will also have close collaboration with the Data Analytics, Manufacturing, Quality Assurance, and Post Market Surveillance groups among others.
-
-The ideal candidate will have:
-
-A minimum of a B.S. in engineering, statistics, mathematics, computer science, or scientific field",3.8,"BioFire Diagnostics, LLC.","Salt Lake City, UT"
-Scientist I or II,$67K - $68K (Glassdoor est.),"BioFire Diagnostics (BFDX), LLC. is looking for a Scientist I or II to join Research and Development department. This is a full time exempt position.
-The Scientist's primary responsibility will be to initiate, design and execute the development of new BFDX‚Äôs molecular diagnostic products. The scientist will also be expected to investigate the feasibility of applying a wide variety of scientific principles and concepts to potential inventions, productions and problems.
-Candidate is expected to have strong analytical and problem-solving skills, an excellence in experimental design, troubleshooting, and data analysis, the ability to execute and multi-task activities with minimal supervision in a fast-pace environment as well as the ability to manage a small team of research staff
-Candidate should be familiar with a variety of the molecular diagnostic concepts, practices, and procedures including PCR, RT-PCR real-time PCR, use of fluorescence-based nucleic acid detection techniques, and sequencing. Desired, experience using computational analyses as a tool to analyze large data sets and applying core language skills to manipulate, shape, and analyze data.",3.8,"BioFire Diagnostics, LLC.","Salt Lake City, UT"
--1,-1,-1,-1,-1,-1
--1,-1,-1,-1,-1,-1
-Medical Laboratory Scientist/Medical Technologist,$17 - $23 Per Hour(Glassdoor est.),"MedLogic Laboratory
-Molecular Technologist
-Location: Baton Rouge, LA
-Position Description
-Laboratory Tasks
-Perform complex clinical testing including but not limited to Nucleic acids extraction, and qPCR and ensures the proper use of all protocols.
-Prepare biological material for downstream genetic testing and analysis.
-Calibrate instrumentation, validate quality of assay, perform cleaning, maintenance, alignment procedures, quality assurance assays, and troubleshooting on equipment.",2.0,MedLogic Laboratories,"Baton Rouge, LA"
-Data Engineer,$76K - $133K (Glassdoor est.),"The NFI Data and Analytics group is looking for a Data Engineer based in the Camden New Jersey headquarters to join our growing team to complement the current multitude and wide variety of team skills to support NFI‚Äôs needs for data driven analytics. Guided by NFI‚Äôs shared values, we work in an environment where collaboration, teamwork, respect, and openness are highly valued.
-
-Essential Duties & Responsibilities:
-Data modeling and dimensional schema design
-
-Design and develop data ingestion, pipeline, processing, and transformation frameworks to automate high-volume, and real-time data delivery
-
-Build the data infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources
-
-Create, enhance, and optimize data visualizations
-
-Identify, design, and implement internal process improvements to automate manual processes, and optimize data delivery
-
-Build processes to support data transformation, data structures, metadata, dependency and workload management.
-
-Define and maintain target data architectures and master data management strategies
-
-Collaborate with various Business, Operations, Applications and Analytics teams to ensure adherence to enterprise data standards and data architecture principles
-
-Monitor compliance of development work against established standards and principles and work to resolve discrepancies and issues
-
-Optimizing high-performing SQL for efficient data transformation
-
-Production release and operation of data services
-
-
-Bachelor‚Äôs degree in Computer Science, Engineering, or related field
-
-4+ years of experience building data pipelines and using ETL tools
-
-2+ years of experience leading data Engineering efforts
-
-2+ years of experience creating data visualizations
-
-Knowledge of data management, data integration and database development technologies and processes
-
-Up-to-date specialized knowledge of data wrangling, manipulation and management
-
-T-SQL or PL/SQL
-
-In-depth knowledge of Microsoft SQL Server or Oracle
-
-Demonstrated mastery in database concepts and large-scale database implementations and design
-
-Excellent analytic and troubleshooting skills
-
-Proficiency with data profiling and data migration
-
-Knowledge of real-time data acquisition and/or automation/controls
-
-Working knowledge of application development and data modeling to support implementation and development of analytics
-
-Demonstrated success in technical proficiency, creativity, collaboration, and independent thought
-
-Experience in migrating ETL processes (not just data) from relational databases to cloud based solutions
-
-Strong interpersonal skills to resolve issues in a professional manner, lead working groups, negotiate and create consensus
-
-Experience architecting and implementing data solutions, and working with unstructured datasets in a cloud environment, a plus
-
-Java / R/ Python, Data science/machine learning, a plus
-
-Warehousing or Transportation Logistics experience, a plus
-
-#LI-SW1
-
-Please, no phone calls or emails to any employee of NFI about this opening. All resumes submitted by search firms/employment agencies to any employee at NFI via-email, the internet or in any form and/or method will be deemed the sole property of NFI, unless such search firms/employment agencies were engaged by NFI for this position and a valid agreement with NFI is in place. In the event a candidate who was submitted outside of the NFI agency engagement process is hired, no fee or payment of any kind will be paid.",3.3,NFI Industries,"Camden, NJ"
-Data & Analytics Consultant,$81K - $123K (Glassdoor est.),"WHO WE LOOK FOR
-
-An SEI Consultant is a master communicator and active listener who understands how to navigate an audience. Self-aware, almost to a fault, SEI consultants keenly understand how to adjust their approach based on the situation. Following a logical, fact-based approach, our consultants possess the superior ability to see correlations others may not, ask the right questions and drive solutions.
-
-As super-connectors, our consultants connect not only people, but data, trends and experiences. Mature, humble, and genuine, SEI Consultants frequently go above and beyond for both their clients and their colleagues. SEI Consultants are ethical and trustworthy individuals who do what they say. SEI Consultants have an insatiable curiosity and love to learn. These individuals are commonly tech savvy and early adopters. Their passion for learning is infectious and excites others.
-
-As every project is different, an SEI Consultant must be with unexpected situations. An SEI Consultant must be at ease with ambiguity because although a client knows that a problem exists ‚Äì they need SEI to figure it out and drive a solution. SEI Consultants define ambition differently. SEI Consultants are who like to hang out with colleagues outside of work. Whether it be cooking, traveling, hiking, or volunteering, SEI Consultants enjoy working with genuine, thoughtful folks who want to steer clear of the traditional grind and share the joy of day-to-day life and activities with colleagues, friends and family.
-
-
-
-Our consultants work with clients at all levels of the organization, from the C-suite to the shop floor, helping them to deliver on their most strategic initiatives. We‚Äôre known for making realistic, data-driven decisions that deliver value in tangible ways to our clients. Our clients ask for us on projects that require a superior combination of technical and business capabilities, people and management skills, and a collaborative mindset. We excel in understanding complex programs and strategic initiatives and breaking them into actionable pieces.
-
-We are actively looking for professionals in the following areas:
-The ideal candidate will:
-Ideal candidates may call themselves Data Engineers, Data Scientists and Analysts and Data Governance professionals. Experience may include but is not limited to the following:",4.6,SEI,"Cincinnati, OH"
-Analytical Scientist,$40K - $71K (Glassdoor est.),"Position Overview:
-Catalent hires people with a passion to make a difference to the health of millions of people globally. Your expertise, coupled with Catalent‚Äôs advanced technologies and collaboration with thousands of innovative pharmaceutical, biotech and healthcare companies, will help bring life-enhancing products to the people you know and love. Your talents , ideas and passion are essential to our mission; to develop, manufacture and supply products that help people live better, healthier lives. Interested in learning more about life at Catalent? Start here
-Analytical Scientist
-The Analytical Scientist reports to the Associate Director
-The Analytical Scientist is responsible for performing analytical method research and development for raw materials, in-process samples and drug products in the Quality Control Department. Analytical Scientists work on method transfer, method verification and method validation under appropriate guidance in support of clinical development and commercial manufacturing. The candidate will work closely with the product development and process transfer teams to provide analytical results and proper data interpretation for drug product development and process validation. When necessary, the Analytical Scientist will conduct routine analytical testing for raw materials, in-process samples, drug products and cleaning verification in support of commercial product manufacturing.",3.5,Catalent Pharma Solutions,"Winchester, KY"
+14,-1,-1,-1,-1,-1,-1
