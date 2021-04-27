@@ -58,9 +58,23 @@ plt.plot(alpha,error)
 err = tuple(zip(alpha,error))
 df_err = pd.DataFrame(err, columns=['alpha','error'])
 df_err[df_err == max(df_err)]
+
 #random forest
+from sklearn.ensemble import RandomForestRegressor
+
+rf = RandomForestRegressor()
+
+np.mean(cross_val_score(rf,x_train,y_train,scoring='neg_mean_absolute_error',cv=3))
+
 
 #tune models GridSearchCV
 
+from sklearn.model_selection import GridSearchCV
+
+parameters = {'n-estimators':range(10,300,10), 'criterion':('mse','mae'),'max_features':('auto','sqrt','Log2')}
+
+gs = GridSearchCV(rf,parameters,scoring='neg_mean_absolute_error',cv=3)
+gs.fit(x_train,y_train)
+print(gs.best_score_)
 #test ensembles
 
