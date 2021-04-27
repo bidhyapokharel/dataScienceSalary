@@ -42,7 +42,8 @@ ln.fit(x_train, y_train)
 np.mean(cross_val_score(ln,x_train,y_train,scoring='neg_mean_absolute_error',cv=3))
 
 #lasso regression
-ln_l = Lasso()
+ln_l = Lasso(alpha=.13)
+ln_l.fit(x_train,y_train)
 np.mean(cross_val_score(ln_l, x_train, y_train, scoring='neg_mean_absolute_error',cv=3))
 
 alpha = []
@@ -76,5 +77,19 @@ parameters = {'n-estimators':range(10,300,10), 'criterion':('mse','mae'),'max_fe
 gs = GridSearchCV(rf,parameters,scoring='neg_mean_absolute_error',cv=3)
 gs.fit(x_train,y_train)
 print(gs.best_score_)
+print(gs.best_estimator_)
+
 #test ensembles
 
+tpred_lm = ln.predict(x_test)
+tpred_lml = ln_l.predict(x_test)
+tpred_rf = gs.best_estimator_.predict(x_test)
+
+
+from sklearn.metrics import mean_absolute_error
+
+mean_absolute_error(y_test,rf)
+mean_absolute_error(y_test,ln)
+mean_absolute_error(y_test, ln_l)
+
+print(mean_absolute_error(y_test,(tpred_lm + tpred_rf / 2)))
