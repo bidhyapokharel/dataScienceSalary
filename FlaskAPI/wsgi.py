@@ -1,14 +1,9 @@
-import flask
-from flask import Flask, jsonify, request
-import json
+from app import app as application
 
-app = Flask(__name__)
-@app.route('/predict', methods=['GET'])
+try:
+    from app import app as application
+except ImportError:
+    from __main__ import app
 
-def predict():
-    response = json.dumps({'response':'yahhh!'})
-    return response,200
-
-if __name__ == '__main__':
-    application.run(debug=True)
-    
+if __name__ == "__main__":
+    application.run()
